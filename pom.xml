@@ -45,5 +45,9 @@
 			</plugin>
 		</plugins>
 	</build>
-
+	<scm>
+		<connection>scm:git:https://github.com/walidbensmida/SpringBootTutorial.git</connection>
+		<url>https://github.com/walidbensmida/SpringBootTutorial</url>
+		<developerConnection>scm:git:https://github.com/walidbensmida/SpringBootTutorial.git</developerConnection>
+	</scm>
 </project>
